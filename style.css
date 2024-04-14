@@ -1,0 +1,8 @@
+:root {
+  --PADDING: 10px;
+}
+img {
+  margin-top: 10px;
+  background-color: aqua;
+  padding: var(--PADDING);
+}
